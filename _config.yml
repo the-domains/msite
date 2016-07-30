@@ -40,6 +40,9 @@ navigation:
   - name: Photos of Various Food Dishes Flying Through the Air
     id: 64d6f890-54c7-4444-8c30-8e78901d1e7b
     type: content
+  - name: 'Jet Engine Espresso Machines : veloce espresso'
+    id: 59af1c2b-a4cf-4f11-9a6f-6d4d6de4ee9b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41d665ad-b12a-4e50-bc53-38158e3ecb3c.jpg
 title: Hello there
