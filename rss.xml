@@ -4,8 +4,15 @@
         <description><![CDATA[Hello there]]></description>
         <link>https://thegrid.ai/msite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 17:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 17:45:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/msite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photos of Various Food Dishes Flying Through the Air]]></title>
+            <description><![CDATA[<article><h1>Photos of Various Food Dishes Flying Through the Air</h1><p>Camden, London-based commercial still life photographer Piotr Gregorczyk likes to play with food and gravity. One concept he has focused on for a number of recent projects is the idea of showing various food dishes flying through the air as they come together on a plate or in a bowl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea61b8e6e7eb14f53652b069cde3df0e37aa5826.jpg"></article>]]></description>
+            <link>https://thegrid.ai/msite/photos-of-various-food-dishes-flying-through-the-air/index.html</link>
+            <guid isPermaLink="false">64d6f890-54c7-4444-8c30-8e78901d1e7b</guid>
+            <pubDate>Sat, 30 Jul 2016 17:44:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
             <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/msite/a8259964-bdd5-410f-b104-3348fd4aa51f/index.html</link>
             <guid isPermaLink="false">a8259964-bdd5-410f-b104-3348fd4aa51f</guid>
             <pubDate>Sat, 30 Jul 2016 13:26:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7f3f30b-8958-469c-983a-2a67e9e71c33.jpg">]]></description>
-            <link>https://thegrid.ai/msite/72a40416-e9da-46e2-aa11-fb8efe22f6ab/index.html</link>
-            <guid isPermaLink="false">72a40416-e9da-46e2-aa11-fb8efe22f6ab</guid>
-            <pubDate>Sat, 30 Jul 2016 13:26:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
