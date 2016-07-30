@@ -34,6 +34,9 @@ navigation:
   - name: 'Dogs and Peanut Butter: A Match Made in Photo Book Heaven'
     id: 0875278b-3a67-45f6-9c9a-713b3fce1506
     type: content
+  - name: '''Light field'' camera maker Lytro announces professional VR video rig'
+    id: 0ebb4157-960e-414c-adb8-a5812b23f2e8
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41d665ad-b12a-4e50-bc53-38158e3ecb3c.jpg
 title: Hello there
