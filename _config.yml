@@ -1,0 +1,14 @@
+layout_spectrum: 0.16187215852551162
+typography_spectrum: 0.515612700022757
+color:
+  brandStrength: 0.48817239981144667
+  lightness: 0.6518681449815631
+  saturation: 0.08840129734016955
+  rhythmicContrast: 0.9261415174696594
+  brandColors:
+    - '#3F291B'
+    - '#28A933'
+    - '#86817E'
+    - '#72F281'
+    - '#FFFEF9'
+name: MSITE
