@@ -22,6 +22,9 @@ navigation:
   - name: Projections in the Forest
     id: f062a125-5957-4603-8ed6-4a826049760e
     type: content
+  - name: Portraits of Dogs as They Shake Off Water
+    id: 53ac5aa9-88f4-4e5f-8ca5-c5c65fe99315
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41d665ad-b12a-4e50-bc53-38158e3ecb3c.jpg
 title: Hello there
