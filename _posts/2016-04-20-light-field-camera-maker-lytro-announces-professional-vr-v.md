@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-30T08:07:52.177Z'
+datePublished: '2016-07-30T13:50:36.166Z'
 sourcePath: >-
   _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera
-hasPage: false
+hasPage: true
 keywords:
   - lytro
   - cameras
@@ -22,7 +20,7 @@ author:
   - name: Adi Robertson
     url: 'http://www.theverge.com/users/adirobertson'
     avatar: {}
-dateModified: '2016-07-30T08:07:50.654Z'
+dateModified: '2016-07-30T13:50:35.704Z'
 title: '''Light field'' camera maker Lytro announces professional VR video rig'
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: light-field-camera-maker-lytro-announces-professional-vr-v/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
