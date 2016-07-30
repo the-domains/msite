@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T13:49:34.895Z'
+datePublished: '2016-07-30T17:42:57.614Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - 500-square-mile
 related: []
 author: []
-dateModified: '2016-07-30T13:49:34.120Z'
+dateModified: '2016-07-30T17:42:57.191Z'
 title: Visit Grand Teton in this 8K Timelapse
 app_links: []
 publisher:
