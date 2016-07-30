@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-30T08:07:52.171Z'
+datePublished: '2016-07-30T17:44:55.643Z'
 sourcePath: _posts/2016-04-16-photos-of-various-food-dishes-flying-through-the-air.md
 inFeed: true
-isBasedOnUrl: >-
-  http://petapixel.com/2015/08/05/photos-of-various-food-dishes-flying-through-the-air/
-hasPage: false
+hasPage: true
 keywords:
   - gregorczyk
   - piotr
@@ -18,7 +16,7 @@ keywords:
   - feature
 related: []
 author: []
-dateModified: '2016-07-30T08:07:50.377Z'
+dateModified: '2016-07-30T17:44:55.229Z'
 title: Photos of Various Food Dishes Flying Through the Air
 app_links: []
 publisher:
@@ -35,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: photos-of-various-food-dishes-flying-through-the-air/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
