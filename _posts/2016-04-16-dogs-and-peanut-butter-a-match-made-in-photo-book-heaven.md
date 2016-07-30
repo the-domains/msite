@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-30T08:07:52.142Z'
+datePublished: '2016-07-30T13:50:05.394Z'
 sourcePath: _posts/2016-04-16-dogs-and-peanut-butter-a-match-made-in-photo-book-heaven.md
 inFeed: true
-isBasedOnUrl: >-
-  http://petapixel.com/2016/04/15/dogs-peanut-butter-match-made-photo-book-heaven/
-hasPage: false
+hasPage: true
 keywords:
   - peanut
   - butter
@@ -18,7 +16,7 @@ keywords:
   - portraits
 related: []
 author: []
-dateModified: '2016-07-30T08:07:50.337Z'
+dateModified: '2016-07-30T13:50:05.069Z'
 title: 'Dogs and Peanut Butter: A Match Made in Photo Book Heaven'
 app_links: []
 publisher:
@@ -35,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: dogs-and-peanut-butter-a-match-made-in-photo-book-heaven/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
