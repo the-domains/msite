@@ -1,4 +1,3 @@
-layout_spectrum: 0.16187215852551162
 typography_spectrum: 0.515612700022757
 color:
   brandStrength: 0.48817239981144667
@@ -11,8 +10,10 @@ color:
     - '#86817E'
     - '#72F281'
     - '#FFFEF9'
-name: MSITE
+layout_spectrum: 0.16187215852551162
 author:
   name: Marc Lovegrove
   email: m@marc-lovegrove.co.uk
   url: www.marc-lovegrove.co.uk
+name: MSITE
+title: Hello there
