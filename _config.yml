@@ -28,6 +28,9 @@ navigation:
   - name: 'From Science Fiction to Reality: The Evolution of Artificial Intelligence'
     id: a3c037b0-fb06-4168-95af-02589af08b83
     type: content
+  - name: 'Dogs and Peanut Butter: A Match Made in Photo Book Heaven'
+    id: 0875278b-3a67-45f6-9c9a-713b3fce1506
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41d665ad-b12a-4e50-bc53-38158e3ecb3c.jpg
 title: Hello there
