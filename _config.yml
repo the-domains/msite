@@ -6,9 +6,13 @@ color:
   saturation: 0.08840129734016955
   rhythmicContrast: 0.9261415174696594
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#3F291B'
+    - '#28A933'
+    - '#86817E'
+    - '#72F281'
+    - '#FFFEF9'
 name: MSITE
+author:
+  name: Marc Lovegrove
+  email: m@marc-lovegrove.co.uk
+  url: www.marc-lovegrove.co.uk
