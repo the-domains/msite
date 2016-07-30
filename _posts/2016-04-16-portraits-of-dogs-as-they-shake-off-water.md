@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T13:50:22.587Z'
+datePublished: '2016-07-30T17:42:45.011Z'
 sourcePath: _posts/2016-04-16-portraits-of-dogs-as-they-shake-off-water.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - dogs
 related: []
 author: []
-dateModified: '2016-07-30T13:50:22.128Z'
+dateModified: '2016-07-30T17:42:44.528Z'
 title: Portraits of Dogs as They Shake Off Water
 app_links: []
 publisher:
