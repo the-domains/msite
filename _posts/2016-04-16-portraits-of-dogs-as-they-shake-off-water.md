@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-07-30T13:14:49.374Z'
+datePublished: '2016-07-30T13:49:19.459Z'
 sourcePath: _posts/2016-04-16-portraits-of-dogs-as-they-shake-off-water.md
 inFeed: true
-isBasedOnUrl: 'http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/'
-hasPage: false
+hasPage: true
 keywords:
   - photographs
   - davidson
@@ -17,7 +16,7 @@ keywords:
   - dogs
 related: []
 author: []
-dateModified: '2016-07-30T13:14:49.259Z'
+dateModified: '2016-07-30T13:49:19.033Z'
 title: Portraits of Dogs as They Shake Off Water
 app_links: []
 publisher:
@@ -34,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: portraits-of-dogs-as-they-shake-off-water/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
