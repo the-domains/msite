@@ -46,4 +46,12 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41d665ad-b12a-4e50-bc53-38158e3ecb3c.jpg
 title: Hello there
+content: []
 description: enjoy or get lost
+purpose:
+  - type: contact
+    url: 'mailto:m@marc-lovegrove.co.uk'
+    label: Contact me
+github: true
+content_rating:
+  adult: false
